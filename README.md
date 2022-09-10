@@ -22,7 +22,7 @@ THEN I find accessible alt attributes\
 When I view the heading attributes\
 THEN they fall in sequential order\
 When I view the title element\
-THEN I find a concise, descriptive title\
+THEN I find a concise, descriptive title
 
 ## License
 
