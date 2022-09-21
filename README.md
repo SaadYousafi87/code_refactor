@@ -24,6 +24,18 @@ THEN they fall in sequential order\
 When I view the title element\
 THEN I find a concise, descriptive title
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/32617598/191389740-71a38c48-59f5-4cc8-ba79-4be6605d0333.png) 
+
+![image](https://user-images.githubusercontent.com/32617598/191389934-c28e9f6a-ea63-466d-a3e2-65f445393e7b.png)
+
+
+## Link to deployed application
+https://saadyousafi87.github.io/code_refactor/
+
+## Technolgy
+HTML, CSS
+
 ## License
 
 Please refer to the LICENSE in the repo.
